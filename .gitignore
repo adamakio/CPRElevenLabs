@@ -1,0 +1,18 @@
+.vs/
+out/
+
+ALL_BUILD.vcxproj
+ALL_BUILD.vcxproj.filters
+ZERO_CHECK.vcxproj
+ZERO_CHECK.vcxproj.filters
+
+# Ignore CMake files
+CMakeCache.txt
+CMakeFiles/
+CMakePresets.json
+
+# Ignore vcpkg files
+vcpkg-configuration.json
+vcpkg-manifest-install.log
+vcpkg.json
+vcpkg_installed/
